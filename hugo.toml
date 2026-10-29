@@ -1,0 +1,3 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-es"
+title = "Mi mini sitio web"
