@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="buho.png" width="100%" alt="Banner Hugo">
+</p>
+
 # 🌿 Mi mini sitio de HUGO
 
 <div style="background-color: #d9f2d9; padding: 20px; border-radius: 10px; color: #1b4332;">
