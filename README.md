@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="buho.png" width="100%" alt="Banner Hugo">
+  <img src="Hugo.png" width="100%" alt="Banner Hugo">
 </p>
 
 # 🌿 Mi mini sitio de HUGO
